@@ -30,7 +30,7 @@
       <ul>
         <li><a href="#built-with">Built With</a>
           <ul>
-            <li><a href="#desktop-view">Preview</a></li>
+            <li><a href="#preview">Preview</a></li>
           </ul>
         </li>
       </ul>
@@ -47,7 +47,7 @@
 ## About The Project
 
 ### Preview
-[![About View Desktop][product-screenshot]](http://silasdev.epizy.com)
+[![Preview][product-screenshot]](https://pokemon-memorygame.vercel.app)
 
 This project was built during a full stack course by Igor from Programador BR
 
@@ -102,12 +102,7 @@ Project Link: [https://github.com/SilasRodrigues19/MemoryGame](https://github.co
 [issues-url]: https://github.com/SilasRodrigues19/MemoryGame/issues
 [license-shield]: https://img.shields.io/github/license/SilasRodrigues19/MemoryGame.svg?style=for-the-badge
 [license-url]: https://github.com/SilasRodrigues19/MemoryGame/blob/master/LICENSE
-[product-screenshot]: https://github.com/SilasRodrigues19/MemoryGame/blob/master/assets/img/preview.gif
-[product-screenshot2]: https://github.com/SilasRodrigues19/MemoryGame/blob/master/assets/img/preview404.png
-[product-screenshot3]: https://github.com/SilasRodrigues19/MemoryGame/blob/master/assets/img/preview2.gif
-[product-screenshot4]: https://github.com/SilasRodrigues19/MemoryGame/blob/master/assets/img/preview404-mobile.png
-[product-screenshot5]: https://github.com/SilasRodrigues19/MemoryGame/blob/master/assets/img/previewErrorMail.png
-[product-screenshot6]: https://github.com/SilasRodrigues19/MemoryGame/blob/master/assets/img/previewSuccessMail.png
+[product-screenshot]: https://github.com/SilasRodrigues19/MemoryGame/blob/master/img/preview.png
 
 <br><hr>
 [🔼 Back to top](#Memory-Game)
