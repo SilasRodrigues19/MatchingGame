@@ -28,11 +28,13 @@ let game = {
         if (!this.firstCard) {
             this.firstCard = card;
             this.firstCard.flipped = true;
+            cardSound();
             return true;
         } else {
             this.secondCard = card;
             this.lockMode = true;
             this.secondCard.flipped = true;
+            cardSound();
             return true;
         }
     },
@@ -53,11 +55,12 @@ let game = {
     unflipCards() {
         this.firstCard.flipped = false;
         this.secondCard.flipped = false;
-
+        cardSound();
         this.clearCards();
     },
 
     checkGameOver() {
+        matchSound();
         return this.cards.filter(card => !card.flipped).length == 0;
     },
 
@@ -91,7 +94,7 @@ let game = {
         return pokemon + parseInt(Math.random() * 1000);
     },
 
-    shuffleCards: function(cards) {
+    shuffleCards: function() {
         let currentIndex = this.cards.length;
         let randomIndex = 0;
 
@@ -109,4 +112,16 @@ function restart() {
     startGame();
     let gameOverLayer = document.getElementById("gameOver");
     gameOverLayer.style.display = 'none';
+}
+
+function cardSound() {
+    const flippedSound = new Audio();
+    flippedSound.src = "audio/flipped.mp3";
+    flippedSound.play();
+}
+
+function matchSound() {
+    const winSound = new Audio();
+    winSound.src = "audio/win.mp3";
+    winSound.play();
 }
