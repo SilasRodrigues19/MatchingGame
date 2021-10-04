@@ -1,4 +1,5 @@
 [![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT Licence][license-shield]][license-url]
 
@@ -98,6 +99,8 @@ Project Link: [https://github.com/SilasRodrigues19/MemoryGame](https://github.co
 [forks-url]: https://github.com/SilasRodrigues19/MemoryGame/network/members
 [stars-shield]: https://img.shields.io/github/stars/SilasRodrigues19/MemoryGame.svg?style=for-the-badge
 [stars-url]: https://github.com/SilasRodrigues19/MemoryGame/stargazers
+[forks-shield]: https://img.shields.io/github/forks/SilasRodrigues19/MemoryGame.svg?style=for-the-badge
+[forks-url]: https://github.com/SilasRodrigues19/MemoryGame/network/members
 [issues-shield]: https://img.shields.io/github/issues/SilasRodrigues19/MemoryGame.svg?style=for-the-badge
 [issues-url]: https://github.com/SilasRodrigues19/MemoryGame/issues
 [license-shield]: https://img.shields.io/github/license/SilasRodrigues19/MemoryGame.svg?style=for-the-badge
