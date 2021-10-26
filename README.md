@@ -11,10 +11,10 @@
     <img src="img/2.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Memory Game</h3>
+  <h3 align="center">Matching Game</h3>
 
   <p align="center">
-    Pokemon Themed Memory Game.
+    Pokemon Themed Matching Game.
     <br />
     <a href="https://pokemon-memorygame.vercel.app"><strong>View Demo »</strong></a>
     <br />
@@ -88,24 +88,24 @@ This work is licensed under a MIT License. See `LICENSE` for more information
 
 Silas Rodrigues - [@jinuye1](https://twitter.com/jinuye1) - silasrodrigues.fatec@gmail.com
 
-Project Link: [https://github.com/SilasRodrigues19/MemoryGame](https://github.com/SilasRodrigues19/MemoryGame)
+Project Link: [https://github.com/SilasRodrigues19/MatchingGame](https://github.com/SilasRodrigues19/MatchingGame)
 
 
    <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/SilasRodrigues19/MemoryGame.svg?style=for-the-badge
-[contributors-url]: https://github.com/SilasRodrigues19/MemoryGame/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SilasRodrigues19/MemoryGame.svg?style=for-the-badge
-[forks-url]: https://github.com/SilasRodrigues19/MemoryGame/network/members
-[stars-shield]: https://img.shields.io/github/stars/SilasRodrigues19/MemoryGame.svg?style=for-the-badge
-[stars-url]: https://github.com/SilasRodrigues19/MemoryGame/stargazers
-[forks-shield]: https://img.shields.io/github/forks/SilasRodrigues19/MemoryGame.svg?style=for-the-badge
-[forks-url]: https://github.com/SilasRodrigues19/MemoryGame/network/members
-[issues-shield]: https://img.shields.io/github/issues/SilasRodrigues19/MemoryGame.svg?style=for-the-badge
-[issues-url]: https://github.com/SilasRodrigues19/MemoryGame/issues
-[license-shield]: https://img.shields.io/github/license/SilasRodrigues19/MemoryGame.svg?style=for-the-badge
-[license-url]: https://github.com/SilasRodrigues19/MemoryGame/blob/master/LICENSE
-[product-screenshot]: https://github.com/SilasRodrigues19/MemoryGame/blob/master/img/preview.png
+[contributors-shield]: https://img.shields.io/github/contributors/SilasRodrigues19/MatchingGame.svg?style=for-the-badge
+[contributors-url]: https://github.com/SilasRodrigues19/MatchingGame/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SilasRodrigues19/MatchingGame.svg?style=for-the-badge
+[forks-url]: https://github.com/SilasRodrigues19/MatchingGame/network/members
+[stars-shield]: https://img.shields.io/github/stars/SilasRodrigues19/MatchingGame.svg?style=for-the-badge
+[stars-url]: https://github.com/SilasRodrigues19/MatchingGame/stargazers
+[forks-shield]: https://img.shields.io/github/forks/SilasRodrigues19/MatchingGame.svg?style=for-the-badge
+[forks-url]: https://github.com/SilasRodrigues19/MatchingGame/network/members
+[issues-shield]: https://img.shields.io/github/issues/SilasRodrigues19/MatchingGame.svg?style=for-the-badge
+[issues-url]: https://github.com/SilasRodrigues19/MatchingGame/issues
+[license-shield]: https://img.shields.io/github/license/SilasRodrigues19/MatchingGame.svg?style=for-the-badge
+[license-url]: https://github.com/SilasRodrigues19/MatchingGame/blob/master/LICENSE
+[product-screenshot]: https://github.com/SilasRodrigues19/MatchingGame/blob/master/img/preview.png
 
 <br><hr>
-[🔼 Back to top](#Memory-Game)
+[🔼 Back to top](#Matching-Game)
