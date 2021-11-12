@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://pokemon-memorygame.vercel.app">
+  <a href="https://pokemon-matchinggame.vercel.app">
     <img src="img/2.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -16,7 +16,7 @@
   <p align="center">
     Pokemon Themed Matching Game.
     <br />
-    <a href="https://pokemon-memorygame.vercel.app"><strong>View Demo »</strong></a>
+    <a href="https://pokemon-matchinggame.vercel.app"><strong>View Demo »</strong></a>
     <br />
   </p>
 </p>
