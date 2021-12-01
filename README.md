@@ -6,6 +6,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
+<samp>
 <p align="center">
   <a href="https://pokemon-matchinggame.vercel.app">
     <img src="img/2.png" alt="Logo" width="80" height="80">
